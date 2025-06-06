@@ -4,20 +4,19 @@
 
 ## Grob-Planung
 
-> Fügen Sie hier ein Foto Ihres handgezeichnete Entwurfes ein, wie Ihre Start-Seite aussehen könnte.
+![WhatsApp Bild 2025-06-06 um 11 33 06_443953ae](https://github.com/user-attachments/assets/a67c5ba7-a9a8-4c21-b1bf-6a6c74cd1e57)
+
 
 ## 6.6
 
-✍️ Heute habe ich... (50-100 Wörter)
-
-☝️ Vergessen Sie nicht, Ihr angepasstes `index.html` und eine Datei mit Ihren Texten hochzuladen.
+Heute habe ich nicht viel geschaft. Ich bin noch nicht ganz im Thema Websiten entwickeln drin. Ich bin noch nicht sehr gut darin und muss noch viel üben. Ich habe jedoch probiert die Absetze "Über mich" und "Meine Lieblings links" ganz nach links zu verfrachten. Jedoch habe ich dies nicht geschaft. Ich werde dies nächste Woche nach holen.
 
 ## 13.6
 
-- [ ] ...
-- [ ] ...
-- [ ] ...
-- [ ] ...
+- [ ] Layout verbessern
+- [ ] Text schreiben
+- [ ] Hintergrund verändern
+- [ ] Bilder hinzufügen
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
