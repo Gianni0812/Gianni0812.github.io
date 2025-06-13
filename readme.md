@@ -13,21 +13,19 @@ Heute habe ich nicht viel geschaft. Ich bin noch nicht ganz im Thema Websiten en
 
 ## 13.6
 
-- [ ] Layout verbessern
-- [ ] Text schreiben
-- [ ] Hintergrund verändern
-- [ ] Bilder hinzufügen
+- [x] Layout verbessern
+- [x] Text schreiben
+- [x] Hintergrund verändern
+- [x] Bilder hinzufügen
 
-✍️ Heute habe ich... (50-100 Wörter)
-
-☝️ Vergessen Sie nicht, Ihre angepasste Website auf github hochzuladen
+Ich habe heute alles geschaft. Ich habe alle packete abgeschlossen und bin fast fertig mit meinem Projekt. Ich habe das Layout überarbeitet und fast alle Daten die ich in mein worddokument gemacht habe hinzugefügt. Ich bin stolz auf mein Projekt und finde es ist mir bis jetzt gut gelungen.
 
 ## 20.7
 
-- [ ] ...
-- [ ] ...
-- [ ] ...
-- [ ] ...
+- [ ] Daten ergenzen
+- [ ] Variabeln hinzufügen
+- [ ] angaben hinzufügen
+
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
