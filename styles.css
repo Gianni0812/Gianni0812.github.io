@@ -1,5 +1,5 @@
-/* Grundlegendes Styling */
 body {
+  
   font-family: Arial, sans-serif;
   line-height: 1.6;
   margin: 0;
@@ -8,30 +8,30 @@ body {
   color: #333;
 }
 
-/* Seitenbereiche */
-header, main, footer {
-  padding: 20px;
-  max-width: 800px;
-  margin: auto;
-}
-
-/* Header */
 header {
   background-color: #e0f6ff;
   text-align: center;
-  padding: 40px 20px;
-  border-radius: 20px;
-  max-width: 700px;
-  margin: 40px;
+  padding: 30px 80px;
+  border-radius: 20px 0 0 20px; 
+  width: calc(100% - 250px); 
   box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  margin: 0;
 }
 
-/* Überschriften */
-h1, h2 {
-  color: #1d4452;
+.introduce h1{
+ font-size: 2.5rem;
+ font-weight: 900;
+ color:black;
+ letter-spacing: -2px;
+ margin-bottom: -20px;
 }
 
-/* Links */
+.introduce h2{
+  font-size: 1rem;
+  font-weight: 600;
+  color: black;
+}
+
 a {
   color: #0066cc;
   text-decoration: none;
@@ -41,24 +41,67 @@ a:hover {
   text-decoration: underline;
 }
 
-/* Footer */
-footer {
-  margin-top: 40px;
-  text-align: center;
-  font-size: 0.9em;
-  color: #666;
-}
-
-
 main {
-  padding: 0 20px; 
-  max-width: 900px;
-  margin: auto;
+ padding-right: 20px; 
+}
+
+.MainBoard {
+  position: relative;
+  z-index: 1;
+  min-height: 100vh; 
+  padding: 40px;
+  box-sizing: border-box;
+}
+
+.MainBoard::before {
+  content: "";
+  position: absolute;
+  top: 0; left: 0;
+  width: 80%;
+  height: 100%;
+  background-image: url('img/Bild1.jpg');
+  background-size: cover;
+  background-position: center 30%;
+  filter: blur(5px) brightness(0.5);
+  z-index: -1;
 }
 
 
-section {
-  padding: 40px 0 40px 60px;
-  margin: 40px;  
-  text-align: left; 
+
+.ÜberMich h2{
+  font-size: 1rem;
+  font-weight: 900;
+  color: black;
+}
+
+.RightBoard {
+  position: fixed;
+  top: 0;
+  right: 0;
+  width: 250px;
+  height: 100vh;
+  background-color: #11a4de;
+  padding: 20px;
+  border-radius: 0 20px 20px 0; 
+  box-shadow: -4px 0 12px rgba(0, 0, 0, 0.1);
+  color: rgb(20, 2, 2);
+  z-index: 1000;
+}
+.Bild img {
+  border-radius: 50%;
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  display: block;
+  margin: 0 auto 20px auto; 
+  box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+}
+.Interessen h2,p{
+  color: rgb(253, 251, 251);
+  font-size: 1.5rem;
+}
+
+.ÜberMich h2,p{
+ color: rgb(253, 251, 251);
+ font-size: 1.5rem
 }
