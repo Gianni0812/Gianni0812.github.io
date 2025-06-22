@@ -22,19 +22,17 @@ Ich habe heute alles geschaft. Ich habe alle packete abgeschlossen und bin fast 
 
 ## 20.7
 
-- [ ] Daten ergenzen
-- [ ] Variabeln hinzufügen
-- [ ] angaben hinzufügen
+- [x] Daten ergenzen
+- [x] Variabeln hinzufügen
+- [x] angaben hinzufügen
 
 
-✍️ Heute habe ich... (50-100 Wörter)
-
-☝️ Vergessen Sie nicht, Ihre angepasste Website auf github hochzuladen
+Ich habe heute viel gearbeitet. ICh habe eine Variabel hinzugefügt, mit der ich die Balken Farbe gut und einfach verändern kann. Ich habe meine Angaben verbessert und alles hinzugefügt. Dann habe ich noch fehler behoben, wie das wenn ich scrolle, das sich nur der mittlere teil bewegt hat und der rechte balken nicht. Jetzt habe ich es so eingestellt, dass sich keines bewegt. 
 
 ## 27.7 Abschluss
 
-- [ ] ...
-- [ ] ...
+- [ ] Letztes abteil mit Githubs hinzufügen
+- [ ] Design überarbeiten
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
