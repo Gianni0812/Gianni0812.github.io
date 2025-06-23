@@ -32,7 +32,7 @@ Ich habe heute viel gearbeitet. ICh habe eine Variabel hinzugefügt, mit der ich
 ## 27.7 Abschluss
 
 - [ ] Letztes abteil mit Githubs hinzufügen
-- [ ] Design überarbeiten
+- [ ] Bessere farb wahl treffen
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
